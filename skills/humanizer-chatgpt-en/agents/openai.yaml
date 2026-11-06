@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 andersonmary13-wq
+interface:
+  display_name: Humanizer ChatGPT — English
+  short_description: Make prose natural while preserving facts and voice
+  default_prompt: Use $humanizer-chatgpt-en to revise this text naturally while preserving
